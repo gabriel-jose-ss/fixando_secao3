@@ -1,0 +1,16 @@
+<style>
+h1{
+font-family: sans-serif;
+text-decoration: underline;
+}
+p{
+font-style: italic;
+font-size: 3em ;
+}
+.red{background-color: red}
+.brown{background-color: brown}
+.yellow{background-color: yellow}
+body{
+font-size: 16px;
+}
+</style>
